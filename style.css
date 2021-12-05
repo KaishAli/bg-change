@@ -1,0 +1,27 @@
+h3{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 38px;
+}
+
+.btn{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    border: black;
+    
+}
+#like{
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 20px;
+    background-color:aqua;
+    
+}
+
+#like:hover{
+    cursor: pointer;
+    background-color:rgb(102, 255, 0);
+    color:rgb(255, 4, 4);
+}
